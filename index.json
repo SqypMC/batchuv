@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "libraries": {
+    "window-manager": {
+      "version": "1.0.0",
+      "description": "Windows window management utilities for BatchUV.",
+      "download": "https://github.com/TomasEU/BatchUV-Registry/releases/download/window-manager-1.0.0/window-manager.zip"
+    }
+  }
+}
